@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  font-family: serif;
+}
+.box1{
+  background-color: #000039;
+  height: 1000px;
+  color:white;
+}
+
+.box2{
+  background-color:white;
+  height:1000px;
+  padding-left: 25px;
+  color:#000039;
+}
+.box2 h2{
+  color:#000039;
+}
+.profile{
+  width:150px;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+.skills{
+
+  width: 70%;
+}
+.progress-bar{
+  height: 18px;
+}
+.progress{
+  height: 18px;
+}
+ .interest{
+   display: flex;
+ }
+ .interest i{
+   padding-left: 65px;
+ }
+h2{
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+h6{
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
+.education h6{
+  color: #1e90ff;
+  padding-top: 10px;
+}
+.education h5{
+  font-weight: bold;
+}
+ .info div{
+   padding-bottom: 5px;
+ }
+ .box1 h3{
+   color: #1e90ff;
+ }
+li{
+  list-style:unset;
+}
+h6{
+  font-size: 1.1em;
+}
